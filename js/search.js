@@ -15,7 +15,7 @@ document.writeln("                                                <div class=\'s
 document.writeln("						<span class=\'type-text\'>常用</span>");
 document.writeln("							<ul class=\'search-type\'>");
 
-document.writeln("<li><input checked hidden type=\'radio\'name=\'type\'id=\'type-baidu\'value=\'https://www.baidu.com/s?wd=\'data-placeholder=\'百度一下\'><label for=\'type-baidu\'><span style=\'color:#2529d8\'>百度</span></label></li>");
+document.writeln("<li><input checked hidden type=\'radio\'name=\'type\'id=\'type-baidu\'value=\'https://www.baidu.com/s?wd=\'data-placeholder=\'世界之大，搜索一下~\'><label for=\'type-baidu\'><span style=\'color:#2529d8\'>百度</span></label></li>");
 document.writeln("");
 document.writeln("<li><input checked hidden type=\'radio\'name=\'type\'id=\'type-google2\'value=\'https://www.google.com.hk/search?query=\'data-placeholder=\'谷歌搜索\'><label for=\'type-google2\'><span style=\'color:#3B83FA\'>G</span><span style=\'color:#F3442C\'>o</span><span style=\'color:#FFC300'\>o</span><span style=\'color:#4696F8'\>g</span><span style=\'color:#2CAB4E'\>l</span><span style=\'color:#F54231'\>e</span></label></li>");
 
